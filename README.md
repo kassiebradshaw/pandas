@@ -1,4 +1,4 @@
-# Lab 12 - Data Analysis with Pandas
+# Lab 12 - Data Analysis with Pandas (VIDEO GAME STATS)
 
 **Author**: Kassie Bradshaw
 
