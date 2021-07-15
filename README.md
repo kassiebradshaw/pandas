@@ -19,11 +19,11 @@ Sign up for a Kaggle account (if you don't already have one).
 
 ## Feature Tasks
 
-* [ ] Find and download the [Video Game Sales](https://www.kaggle.com/gregorut/videogamesales) Data Set - Sales data from more than 16,500 games
+* [x] Find and download the [Video Game Sales](https://www.kaggle.com/gregorut/videogamesales) Data Set - Sales data from more than 16,500 games
 
-* [ ] Start a Jupyter Notebook called `vg-stats`
-* [ ] Add a markdown cell at the top of the notebook with the title of this assignment, an appropriate name for the data set, as well as your name and the date
-* [ ] Load up the Data Set into a Pandas DataFrame within the respective file
+* [x] Start a Jupyter Notebook called `vg-stats`
+* [x] Add a markdown cell at the top of the notebook with the title of this assignment, an appropriate name for the data set, as well as your name and the date
+* [x] Load up the Data Set into a Pandas DataFrame within the respective file
 
 ---
 
@@ -33,21 +33,42 @@ Sign up for a Kaggle account (if you don't already have one).
 
 Answer the following questions:
 
-[ ] 1. Which company is the most common video game publisher?
+[x] 1. Which company is the most common video game publisher? **Electronic Arts**
 
-[ ] 2. What's the most common platform?
+[x] 2. What's the most common platform? **Nintendo DS**
 
-[ ] 3. What's the most common genre?
+[x] 3. What's the most common genre? **Action**
 
-[ ] 4. What are the top 20 highest grossing gamess?
+[x] 4. What are the top 20 highest grossing games?
 
-[ ] 5. For North American video game sales, what's the median?
+1. Wii Sports
+2. Super Mario Bros
+3. Mario Kart Wii
+4. Wii Sports Resort
+5. Pokemon Red/Pokemon Blue
+6. Tetris
+7. New Super Mario Bros
+8. Wii Play
+9. New Super Mario Bros. Wii
+10. Duck Hunt
+11. Nintendogs
+12. Mario Kart DS
+13. Pokemon Gold/Pokemon Silver
+14. Wii Fit
+15. Wii Fit Plus
+16. Kinect Adventures
+17. Grand Theft Auto V
+18. Grand Theft Auto: San Andreas
+19. Super Mario World
+20. Brain Age: Train Your Brain in Minutes a Day
 
-* [ ] Provide a secondary output showing ten games surrounding the median sales output (assume that games with the same median value are sorted in descending order)
+[x] 5. For North American video game sales, what's the median? **$80,000**
+
+* [x] Provide a secondary output showing ten games surrounding the median sales output (assume that games with the same median value are sorted in descending order)
 
 [ ] 6. For the top-selling game of all time, how many standard deviations above/below the mean are its sales for North America?
 
-[ ] 7. The Nintendo Wii seems to have oudone itself with games. How does its average number of sales compare with all of the other platforms?
+[ ] 7. The Nintendo Wii seems to have outdone itself with games. How does its average number of sales compare with all of the other platforms?
 
 [ ] 8. Come up with 3 more questions that can be answered with this data set.
 
@@ -86,3 +107,7 @@ Answer the following questions:
 * Created Jupyter Notebook and README
 * Created GitHub repo
 * Initial ACP
+
+**07-14-2021:**
+
+* 
